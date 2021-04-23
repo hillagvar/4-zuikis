@@ -7,7 +7,7 @@
 
 _experimental project, constantly updated_
 
-This project is for learning purposes only. Here I experiment with new features as I learn them. 
+This project is for learning purposes only. Here I experiment with new features as I learn them. Pull requests are welcome, but priority for fellow BIT students!
 
 Site published at https://hillagvar.github.io/4-zuikis/
 
