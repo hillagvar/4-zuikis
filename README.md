@@ -17,7 +17,9 @@ Design: [Hilla Gvar](https://i.pinimg.com/originals/64/d5/a2/64d5a2540f89921f34e
 
 - Github pages
 - png images
+- fixed width content
 - desktop only
+- header / main / footer
 
 ## Authors
 
