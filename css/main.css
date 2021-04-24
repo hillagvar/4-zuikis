@@ -14,8 +14,8 @@ header {
 header > div {
     display: inline-block;
     float: left;
-    width: 1200px;
-    margin-left: calc(50% - 600px);
+    width: 1000px;
+    margin-left: calc(50% - 500px);
 }
 
 header > div > img {
@@ -50,12 +50,12 @@ main {
 
 main > div {
     display: inline-block;
-    width: 1200px;
-    margin-left: calc(50% - 600px);
+    width: 1000px;
+    margin-left: calc(50% - 500px);
 }
 
 main > div > div {
-    width: 50%;
+    width: 55%;
     float: left;
     margin-top: 90px;
     margin-right: 5%;
@@ -121,7 +121,7 @@ main > div > img {
     float: right;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-right: 8%;
+    margin-right: 6%;
 }
 
 footer {
@@ -134,8 +134,8 @@ footer {
 footer > div {
     display: inline-block;
     float: left;
-    width: 1200px;
-    margin-left: calc(50% - 600px);
+    width: 1000px;
+    margin-left: calc(50% - 500px);
     margin-top: 15px;
     margin-bottom: 15px;
     text-align: center;
