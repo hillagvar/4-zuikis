@@ -23,5 +23,6 @@ Design: [Hilla Gvar](https://i.pinimg.com/originals/64/d5/a2/64d5a2540f89921f34e
 
 ## Authors
 
-[Hilla Gvar](https://github.com/hillagvar)
-[my rabbit](https://i.pinimg.com/originals/21/14/49/2114492cbf4afa0d50c9bec6328e9cbe.jpg)
+Hilla Gvar [GitHub](https://github.com/hillagvar)
+
+My rabbit [Zuikis](https://i.pinimg.com/originals/21/14/49/2114492cbf4afa0d50c9bec6328e9cbe.jpg)
