@@ -37,6 +37,7 @@ header > div> nav > a {
     color: #0D222E;
     text-decoration: none;
     text-transform: uppercase;
+    word-spacing: 2px;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -108,6 +109,7 @@ main > div > div > a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
+    word-spacing: 5px;
     background-color: #14a782;
     padding: 15px;
     padding-left: 25px;
@@ -147,6 +149,7 @@ footer > div > p {
     font-size: 18px;
     color: #0D222E;
     text-transform: uppercase;
+    word-spacing: 2px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
