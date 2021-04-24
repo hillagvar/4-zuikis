@@ -11,7 +11,7 @@ This project is for learning purposes only. Here I experiment with new features 
 
 Site published at https://hillagvar.github.io/4-zuikis/
 
-Design: my own
+Design: [Hilla Gvar](https://i.pinimg.com/originals/64/d5/a2/64d5a2540f89921f34e90eac4fbf7171.png)
 
 ## Project features
 
