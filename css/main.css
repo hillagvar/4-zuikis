@@ -109,6 +109,7 @@ main > div > div > a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
+    font-weight: 500;
     word-spacing: 4px;
     background-color: #14a782;
     padding: 15px;
