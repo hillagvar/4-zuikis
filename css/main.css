@@ -5,15 +5,11 @@ body {
 }
 
 header {
-    display: inline-block;
-    float: left;
     width: 100%;
     margin: 0;
 }
 
 header > div {
-    display: inline-block;
-    float: left;
     width: 1000px;
     margin-left: calc(50% - 500px);
 }
@@ -43,7 +39,6 @@ header > div> nav > a {
 }
 
 main {
-    display: inline-block;
     width: 100%;
     background-color: #ecebeb;
     margin: 0;
@@ -128,15 +123,11 @@ main > div > img {
 }
 
 footer {
-    display: inline-block;
-    float: left;
     width: 100%;
     margin: 0;
 }
 
 footer > div {
-    display: inline-block;
-    float: left;
     width: 1000px;
     margin-left: calc(50% - 500px);
     margin-top: 15px;
@@ -156,14 +147,12 @@ footer > div > p {
 }
 
 footer > div > nav {
-    display: inline-block;
     width: 100%;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 5px;
 }
 
 footer > div > nav > a {
-    display: inline-block;
     font-size: 14px;
     color: #0D222E;
     text-decoration: none;
